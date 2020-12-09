@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>안녕하세요... 메이븐을 잘 못 만들어서 죄송합니당... 형상관리가 너무 어렵네요.... 어렵다....</h1>
+	<h1>안녕하세요... 수안</h1>
 </body>
 </html>
